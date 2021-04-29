@@ -1,8 +1,13 @@
-# Up & Running
+## Brief 
+Used to analyze pages content by calling a third party api to evaluate the page content.
 
-## UP
+Part of Udactiy FEND
+
+## Up & Running
+
+
 ### Prequests
-Node, npm
+`Node`, `npm`
 
 ### Build & Run steps
 1. `npm i`
